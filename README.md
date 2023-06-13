@@ -1,6 +1,6 @@
 Analyze and model a dataset with PSQL
 
-[Portfolio] (https://github.com/emilsirakov/portfolio)
+[Portfolio](https://github.com/emilsirakov/portfolio)
 
 
 - Define Questions
